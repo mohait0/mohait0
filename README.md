@@ -2,9 +2,7 @@
 - 👀 I’m interested in Blokchain, crypto, smart contract, bitcoin, brc-20
 - 🌱 I’m currently learning blockchain 
 - 💞️ I’m looking to collaborate on crypto projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Mohait014@gmail.com
 
 <!---
 mohait0/mohait0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
